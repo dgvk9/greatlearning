@@ -15,7 +15,7 @@ Attendee[] arr = new Attendee[100];
 		arr[0]= obj1;
 Attendee obj2 = new Attendee();
 		obj1.name= "Amit";
-		obj1.city = "Bangalore";
+		obj1.city = "Bengaluru";
 		obj1.programmingExp = 2.3;
 		System.out.println(obj2.display());
 		arr[1]= obj2;
